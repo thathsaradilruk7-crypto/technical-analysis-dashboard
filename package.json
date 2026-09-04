@@ -1,0 +1,26 @@
+{
+  "name": "technical-analysis-dashboard",
+  "version": "1.0.0",
+  "description": "Advanced Technical Analysis Dashboard with multi-indicator trading signals and performance tracking",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "trading",
+    "technical-analysis",
+    "signals",
+    "crypto",
+    "indicators",
+    "rsi",
+    "macd",
+    "bollinger-bands"
+  ],
+  "author": "Trading Dashboard Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thathsaradilruk7-crypto/technical-analysis-dashboard.git"
+  }
+}
